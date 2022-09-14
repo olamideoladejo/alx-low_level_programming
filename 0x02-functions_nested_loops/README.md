@@ -1,1 +1,1 @@
-program that prints
+a program that prints
